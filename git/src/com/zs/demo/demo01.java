@@ -10,7 +10,8 @@ public class demo01 {
     public void test(){
         System.out.println("aaa");
         System.out.println("bb");
+        System.out.println("hh");
+        System.out.println("mm");
         System.out.println("cc");
     }
 }
-
